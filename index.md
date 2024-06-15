@@ -1,6 +1,7 @@
 ---
-My Physics Journey - on the road to becoming a professional physicist
+title: "my-physics-journey"
 ---
+My Physics Journey - on the road to becoming a professional physicist
 
 I know, a bit cliche, but I'm not a writer, so I hope you'll forgive the obvious title.  My name is Eric Stimpson, and I'm a relatively new graduate student in physics at Wayne State University.  The purpose of this blog is to document my journey to becoming a professional physicist.  I hope that what I share here will be helpful to those who come after me on their own journeys.
 
